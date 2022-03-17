@@ -1,0 +1,3 @@
+# ExamDataAnalysis
+
+npm start
